@@ -29,7 +29,7 @@ SELECT *
 from customers
 
 
--- Inserting intp Cars Table 
+-- Inserting into Cars Table 
 
 CREATE OR REPLACE FUNCTION insert_car(
     serial_number_param VARCHAR,
