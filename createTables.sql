@@ -1,4 +1,4 @@
-create DATABASE car_dealership 
+create DATABASE car_dealership;
 
 CREATE TYPE customer_action AS ENUM ('Buy', 'Service');
 
