@@ -29,7 +29,14 @@ SELECT *
 from customers
 
 
+<<<<<<< HEAD
 -- Inserting into Cars Table 
+=======
+
+
+
+-- Inserting intp Cars Table 
+>>>>>>> 843220c (Stored Functions)
 
 CREATE OR REPLACE FUNCTION insert_car(
     serial_number_param VARCHAR,
